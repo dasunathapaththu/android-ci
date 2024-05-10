@@ -1,5 +1,5 @@
 FROM ubuntu:20.04
-MAINTAINER Jan Grewe <jan@faked.org>
+MAINTAINER Dasun Athapaththu <dasunathapaththu@gmail.com>
 
 ENV VERSION_TOOLS "8512546"
 
